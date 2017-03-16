@@ -17,6 +17,19 @@
         android:layout_height="wrap_content"
         android:text="Hello World!" />
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/input_tip_1"
+        android:id="@+id/edit_input_1"
+        android:inputType="number" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/input_tip_2"
+        android:id="@+id/edit_input_2"
+        android:inputType="number" />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

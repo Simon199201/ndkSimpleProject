@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">SimpleNdk</string>
     <string name="add">add</string>
+    <string name="input_tip_1">Please input the first number</string>
+    <string name="input_tip_2">Please input the second number</string>
+    <string name="total">total :</string>
 </resources>
